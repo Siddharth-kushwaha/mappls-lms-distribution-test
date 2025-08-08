@@ -1,4 +1,3 @@
-
-class MapplsLMSTest {
+class MapplsLMSCore {
     
 }
